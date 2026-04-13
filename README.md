@@ -206,7 +206,7 @@ git push origin feature/amazing-feature
 
 ## 👨‍💻 Author
 
-**Badiger** — *Built with passion and ☕*
+**Vishnu Badiger** — *Built with passion and ☕*
 
 > _"Where every dish is a masterpiece, every meal a memory."_
 > — Badiger's Den
