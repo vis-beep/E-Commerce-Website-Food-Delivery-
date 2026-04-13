@@ -202,11 +202,7 @@ git push origin feature/amazing-feature
 
 ---
 
-## 📄 License
 
-Distributed under the **MIT License**. See `LICENSE` for more information.
-
----
 
 ## 👨‍💻 Author
 
